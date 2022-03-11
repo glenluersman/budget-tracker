@@ -1,14 +1,14 @@
 <p align="center">
- <img width=200px height=200px src="./images/logo-round-dark.png" alt="Project logo"></a>
+ <img width=200px height=200px src="./public/images/logo-round-dark.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Sweet Sports Stuff</h3>
+<h3 align="center">Budget Tracker</h3>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/glenluersman/sweet-sports-stuff.svg)](https://github.com/glenluersman/sweet-sports-stuff/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/glenluersman/sweet-sports-stuff.svg)](https://github.com/glenluersman/sweet-sports-stuff/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/glenluersman/budget-tracker.svg)](https://github.com/glenluersman/budget-tracker/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/glenluersman/budget-tracker.svg)](https://github.com/glenluersman/budget-tracker/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -51,8 +51,8 @@
 
 ## <img id="screenshots" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/screenshots.png?raw=true" style="height: 40px">
 
-<img style="margin: 0 0 15px 0" src="public/images/sweet-sports1.PNG" ></a>
+<img style="margin: 0 0 15px 0" src="public/images/.PNG" ></a>
 
-<img style="margin: 0 0 15px 0" src="public/images/sweet-sports2.PNG" ></a>
+<img style="margin: 0 0 15px 0" src="public/images/.PNG" ></a>
 
-<img style="margin: 0 0 15px 0" src="public/images/sweet-sports3.PNG" ></a>
+<img style="margin: 0 0 15px 0" src="public/images/.PNG" ></a>
