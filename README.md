@@ -27,19 +27,27 @@
 
 ## <img id="about" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/about.png?raw=true" style="height: 40px">
 
-- 
+- Budget Tracker gives users a fast and easy way to track their money. It works both online or offline so you always know how much money you don't have. You may also install Budget Tracker on your desktop or smartphone for quick and easy access.
 
 ## <img id="installing" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/installing.png?raw=true" style="height: 40px">
 
-- 
+1. Clone repository
+2. Run `npm install`
+3. Run `npm start`
+4. Navigate to localhost:3001
 
 ## <img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/usage.png?raw=true" style="height: 40px">
 
-- 
+- To use Budget Tracker simply input your transaction name, amount, and whether it is adding funds or subtracting funds.
+Installing on your desktop or smartphone is a breeze. For desktop click the install icon in the address bar and done. For smartphones tap on the share icon and add to your homescreen. 
 
 ## <img id="built_using" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/built-using.png?raw=true" style="height: 40px">
 
-- 
+- Node.js
+- Express.js
+- HTML
+- CSS
+- Javascript
 
 ## <img id="authors" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/authors.png?raw=true" style="height: 40px">
 
@@ -51,8 +59,6 @@
 
 ## <img id="screenshots" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/screenshots.png?raw=true" style="height: 40px">
 
-<img style="margin: 0 0 15px 0" src="public/images/.PNG" ></a>
+- Deployed at Heroku: https://mysterious-reef-48892.herokuapp.com/
 
-<img style="margin: 0 0 15px 0" src="public/images/.PNG" ></a>
-
-<img style="margin: 0 0 15px 0" src="public/images/.PNG" ></a>
+<img style="margin: 0 0 15px 0" src="public/images/budget-tracker.PNG" ></a>
